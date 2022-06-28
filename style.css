@@ -1,0 +1,27 @@
+html{
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+.navbar{
+  padding: 15px;
+}
+
+.logo{
+  width: 400px;
+  height: auto;
+  border-radius: 25px;
+}
+
+.service {
+  height: 400px;
+  width: auto;
+}
+
+.resource {
+  height: 300px;
+  width: auto;
+  margin: 10px;
+  object-fit: cover;
+}
